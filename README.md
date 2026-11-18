@@ -2,7 +2,7 @@
 
 Academic portfolio repo **#1** for [@Newo3210](https://github.com/Newo3210).
 
-Full-stack learning hub (docs + OpenSpec) lives in **Student-Journey**. This repository is the standalone frontend demo.
+Full-stack learning hub
 
 ## Stack
 
@@ -23,5 +23,3 @@ npm run build
 - Filters (all / active / completed)
 - `localStorage` persistence
 - Modular folders + section comments
-
-No backend, auth, DB, or AI (traditional Full Stack academic track).
